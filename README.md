@@ -1,2 +1,2 @@
 # Greenhouse-Effect
-OpenGL project
+OpenGL Computer Graphics project
